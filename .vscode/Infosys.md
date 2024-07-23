@@ -18,3 +18,7 @@
 6. Consider you and your team mate working on a same branch and merge conflicts occure what is your approch to resolve it?
 
 7. What is cherry pick?
+
+8. What do you do to ensure coding standers and other than manual code reviws what tools you use to review the code?
+
+9. How much code do you cover in unit testing and how do you check how much code coverage has been done?
