@@ -7,8 +7,10 @@
 7. a = 123; sum of all ?
 8. flat array
 9. shifting array element with given position
+10. Sum of two element should match target(consicative or any)
+11. Subarr of duplicate element
 
-10. Clone an object (shallow and deep)
+12. Clone an object (shallow and deep)
 
 // Shallow clone
 const clone = { ...original };
