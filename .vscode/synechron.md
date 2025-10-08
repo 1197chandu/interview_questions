@@ -5,3 +5,4 @@
 5. What are the different type of code covarages?
 6. What is the difference between Flex and Grid
 7. What are the middlewares in react?
+8. Local storage, session storage and cookies? How much data can we store in each of them?
